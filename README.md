@@ -9,6 +9,6 @@ Web app that creates a random Super Heroe Names.
 Function "Heroinas" / "heroes" take a random name between the given String Array based
 on a random number.
 
-##Dependencies
+## Dependencies
 Bootstrap 4.X.X
 JavaScript ES5
