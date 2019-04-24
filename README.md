@@ -11,4 +11,5 @@ on a random number.
 
 ## Dependencies
 Bootstrap 4.X.X
+<br>
 JavaScript ES5
